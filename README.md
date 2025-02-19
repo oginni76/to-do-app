@@ -32,7 +32,7 @@ If using vs-code editor and have the live server extension installed you can jus
 
 ## 🖥️ Deployment
 
-Check out the live version of the app: 
+Check out the live version of the app: https://taskifynet.netlify.app/
 
 
 
